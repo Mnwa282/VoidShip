@@ -239,14 +239,16 @@
   - Scientist
   - ResearchAssistant
 
-- type: department
-  id: Silicon
-  name: department-Silicon
-  description: department-Silicon-description
-  color: "#D381C9"
-  roles:
-  - Borg
-  - StationAi
+#Void Ship: AI remove. AI is extremely forbidden by Adeptus Mechanicus because in dark age of technology "iron humans", basicly robots, almost destroy entire humanity.
+#They use machine spirits instead, basicly it's same, but much more harnessed and less freewill. I'm not going to add something like SAI
+#- type: department
+#  id: Silicon
+#  name: department-Silicon
+#  description: department-Silicon-description
+#  color: "#D381C9"
+#  roles:
+#  - Borg
+#  - StationAi
 
 - type: department
   id: Specific
